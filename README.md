@@ -103,8 +103,6 @@ This project helped practice:
 
 ## 👨‍💻 Author
 
-## 👨‍💻 Author
-
 ### Satya Muduli
 
 A BCA student passionate about learning new technologies and building practical web development projects. I enjoy improving my programming skills by creating clean, responsive, and user-friendly applications.
