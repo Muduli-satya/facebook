@@ -103,11 +103,15 @@ This project helped practice:
 
 ## 👨‍💻 Author
 
-**Satya Muduli**
+## 👨‍💻 Author
 
-BCA Student | Front-End Developer | Web Development Enthusiast
+### Satya Muduli
 
-GitHub: https://github.com/your-username
+A BCA student passionate about learning new technologies and building practical web development projects. I enjoy improving my programming skills by creating clean, responsive, and user-friendly applications.
+
+### 📬 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/satya-muduli08
 
 ---
 
